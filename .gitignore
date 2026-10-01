@@ -1,0 +1,14 @@
+﻿# Model outputs and data (download from Kaggle instead; too large for GitHub)
+outputs_kamminga/
+plant_results/
+*.zip
+*.npz
+
+# Python and editor clutter
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vscode/
+.DS_Store
+Thumbs.db
